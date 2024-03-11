@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    overflow: hidden;
+}
+nav{
+    background-color: rgb(189, 204, 184);
+ul{
+    :hover{
+        color: brown;
+    }
+}
+    h1{
+        color: rgb(118, 122, 120);
+        font-style: italic;
+    }
+}
